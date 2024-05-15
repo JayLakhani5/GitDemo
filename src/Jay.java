@@ -1,6 +1,9 @@
 public class Jay {
-    int a = 10;
-    int b =10;
-    int c = a+b;
 
+    public void demo() {
+        int a = 10;
+        int b = 10;
+        int c = a + b;
+
+    }
 }
